@@ -6,7 +6,7 @@ portable版零配置，仅提供中文分词、简繁拼音、同义词等功能
 
 ```
 dependencies {
-    compile 'com.hankcs:hanlp:portable-1.6.7'
+    compile 'com.hankcs:hanlp:portable-1.6.8'
 }
 ```
 
